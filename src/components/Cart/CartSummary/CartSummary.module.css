@@ -1,0 +1,25 @@
+.items {
+  list-style: none;
+}
+
+.total {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1.2rem 0;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.5rem;
+  margin-top: 1.2rem;
+}
+
+.button--alt {
+  border: 1px solid #ffba08;
+  background-color: transparent;
+  color: #ffba08;
+}

@@ -1,0 +1,66 @@
+.control-group {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.control {
+  flex: 1;
+}
+
+.control label {
+  display: block;
+  margin-bottom: 0.25rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.control input {
+  width: 100%;
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+  font: inherit;
+  font-size: 1.1rem;
+  padding: 0.1rem 0.5rem;
+}
+
+.invalid input {
+  border-color: #e63946;
+  background-color: #ffeff1;
+}
+
+.invalid p {
+  color: #e63946;
+}
+
+.actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.5rem;
+  margin-top: 1.2rem;
+}
+
+.actions button {
+  border: 1px solid #3f88c5;
+  background-color: #3f88c5;
+  color: white;
+}
+
+.actions button:hover {
+  border: 1px solid #005387;
+  background-color: #005387;
+  color: white;
+}
+
+.actions .button--alt {
+  border: 1px solid #3f88c5;
+  background-color: transparent;
+  color: #3f88c5;
+}
+
+@media (min-width: 640px) {
+  .control-group {
+    flex-direction: row;
+  }
+}

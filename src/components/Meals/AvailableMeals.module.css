@@ -1,0 +1,35 @@
+.meals {
+  width: 90%;
+  max-width: 50rem;
+  margin: 1rem auto;
+  padding: 0 1rem;
+  animation: meals-appear 1s ease-out;
+}
+
+.meals ul {
+  list-style-type: none;
+}
+
+.loading {
+  text-align: center;
+  font-style: italic;
+  color: #aaaaaa;
+}
+
+.error {
+  text-align: center;
+  font-style: italic;
+  color: red;
+}
+
+@keyframes meals-appear {
+  from {
+    transform: translateY(3rem);
+    opacity: 0;
+  }
+
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}

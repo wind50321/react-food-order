@@ -1,0 +1,28 @@
+.message {
+  text-align: center;
+  font-size: 1.1rem;
+  margin: 0.5rem 0;
+}
+
+.error {
+  color: red;
+}
+
+.actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.5rem;
+  margin-top: 1.2rem;
+}
+
+.actions button {
+  border: 1px solid #3f88c5;
+  background-color: #3f88c5;
+  color: white;
+}
+
+.actions button:hover {
+  border: 1px solid #005387;
+  background-color: #005387;
+  color: white;
+}
