@@ -29,3 +29,8 @@
 - 點餐畫面 [連結](https://raw.githubusercontent.com/wind50321/react-food-order/main/demo/rwd-main.png)
 - 購物車畫面 1 [連結](https://raw.githubusercontent.com/wind50321/react-food-order/main/demo/rwd-cart-1.png)
 - 購物車畫面 2 [連結](https://raw.githubusercontent.com/wind50321/react-food-order/main/demo/rwd-cart-2.png)
+
+## 關於作者
+
+- 陳昱帆 (Jason Chen)
+- 聯絡我: wind50321@gmail.com
