@@ -19,16 +19,11 @@
 - 使用 React 設計網頁界面。
 - 使用 Redux 管理購物車內容，和使用者界面(購物車開關狀態)。
 - 後端資料庫使用 Google Firebase Realtime Database。
-- 後端資料庫餐點內容結構 [連結](https://raw.githubusercontent.com/wind50321/react-food-order/main/demo/db-meals.png)
-- 後端資料庫客戶訂單結構 [連結](https://raw.githubusercontent.com/wind50321/react-food-order/main/demo/db-orders.png)
+- 後端資料庫(餐點+訂單)結構 [預覽](https://raw.githubusercontent.com/wind50321/react-food-order/main/demo/db.png)
 
 ## 響應式設計
 
-針對行動裝置調整畫面。
-
-- 點餐畫面 [連結](https://raw.githubusercontent.com/wind50321/react-food-order/main/demo/rwd-main.png)
-- 購物車畫面 1 [連結](https://raw.githubusercontent.com/wind50321/react-food-order/main/demo/rwd-cart-1.png)
-- 購物車畫面 2 [連結](https://raw.githubusercontent.com/wind50321/react-food-order/main/demo/rwd-cart-2.png)
+- 針對行動裝置調整畫面 [預覽](https://raw.githubusercontent.com/wind50321/react-food-order/main/demo/rwd.png)
 
 ## 關於作者
 
